@@ -1,7 +1,7 @@
 {
-    "title":"Objective-C",
+    "title":"Swift",
     "author":"Sam Lau",
-    "description":"记录学习Objective-C的知识点！",
+    "description":"Swift",
     "language":"zh-hans",
     "styles":{
         "website": "styles/website.css"
