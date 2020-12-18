@@ -4,5 +4,5 @@
 
 ----------
 
-* [基础教程](/_posts/grammar-chapter.md)
-	* [变量及数据类型](/_posts/grammar-basic.md)
+* [教程](/tutorial/README.md)
+	* [闭包](/tutorial/block.md)
